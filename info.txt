@@ -1,2 +1,6 @@
 Proyecto iniciado
 23/10/2026
+La prueba de modificacion de Git
+Estoy haciendo la practica01
+Hoy es Viernes
+Probando Git
